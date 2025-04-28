@@ -15,8 +15,6 @@ void menu(){
     printf("8. Save data to file\n");
     printf("9. Load data from file\n\n");
 
-
-
     printf("\tSelect an option: ");
 
 }
